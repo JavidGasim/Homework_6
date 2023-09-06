@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homewor_6_c#/1.0.0": {
+        "runtime": {
+          "Homewor_6_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homewor_6_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

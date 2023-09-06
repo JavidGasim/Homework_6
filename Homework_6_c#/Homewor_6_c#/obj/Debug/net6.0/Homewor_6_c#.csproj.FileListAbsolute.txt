@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\bin\Debug\net6.0\Homewor_6_c#.exe
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\bin\Debug\net6.0\Homewor_6_c#.deps.json
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\bin\Debug\net6.0\Homewor_6_c#.runtimeconfig.json
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\bin\Debug\net6.0\Homewor_6_c#.dll
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\bin\Debug\net6.0\Homewor_6_c#.pdb
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.AssemblyInfo.cs
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.dll
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\refint\Homewor_6_c#.dll
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.pdb
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\Homewor_6_c#.genruntimeconfig.cache
+C:\Users\gasim\source\repos\Homewor_6_c#\Homewor_6_c#\obj\Debug\net6.0\ref\Homewor_6_c#.dll
